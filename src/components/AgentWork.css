@@ -1,0 +1,41 @@
+.primaryBtn70{
+    cursor: pointer;
+    list-style: none;
+    font-weight: bolder;
+    /* padding: 13px 250px; */
+    width: 95%;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+    color: rgb(0, 0, 0);
+    background: rgb(254, 3, 3);
+    border-radius: 5px;
+    margin-left: 11px;
+    margin-top: 17px;
+    transition: all 0.25s ease;
+}
+
+
+.card2 {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card2:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+  margin: 10px;
+}
+
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
